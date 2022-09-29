@@ -1,0 +1,2 @@
+# Vectorization
+Vectorization using python
